@@ -1,1 +1,2 @@
 # House-Price-Prediction
+The project aimed to predict house prices by analyzing factors affecting property value. The dataset of 20,932 housing records underwent preprocessing. Key insights revealed that factors like floors, square footage, location, renovation status, and quality indicators significantly influenced prices. Properties with more floors and larger living spaces commanded higher prices. Certain locations and recent renovations also positively impacted prices. These findings provide valuable insights for pricing decisions and understanding the housing market.
